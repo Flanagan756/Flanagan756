@@ -21,7 +21,6 @@ namespace Lab8_OOD_Online
     public partial class MainWindow : Window
     {
         TeamData db = new TeamData();
-        string playerName;
         public MainWindow()
         {
             InitializeComponent();
